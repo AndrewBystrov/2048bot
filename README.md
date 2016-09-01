@@ -1,1 +1,1 @@
-How to use : just open index.html in your browser and press the play button
+algo for playnig 2048, based on framework https://github.com/gabrielecirulli/2048
